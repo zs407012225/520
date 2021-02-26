@@ -17,7 +17,7 @@ WPS 有一个免费领会员的活动，关注微信小程序“我的WPS会员�
 # 执行步骤：
 1. 添加微信小程序‘我的WPS会员’，首页参加打卡活动，进入个人中心记录数字 ID
 2. 右上角 Fork 该项目
-3. 在 Fork 完的该项目页面中，点击上方 Actions，开启workflow
+3. Fork 完后会直接跳转到你的项目页面中，点击上方 Actions，开启workflow
 4. 点击文件 WPS_accept_invitation.py。将第一行 'invite_userids = [ID1, ID2]' 括号中的数字改成自己的会员 ID，多个账号用英文的逗号隔开，保存修改即可
 
 # 微信推送邀请结果：
