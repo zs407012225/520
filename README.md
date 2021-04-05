@@ -26,7 +26,7 @@ WPS 有一个免费领会员的活动，关注微信小程序“我的WPS会员�
 2. 在本页面上方 Settings → Secrets 中点击 New repository secret ，Name 填写 “**SERVER_KEY**”（不带引号），Value 中填写上一步获取的 SCKEY 值。
 
 ## Bark
-1. 直接下载 Bark APP（我用的 ios，Android 不知道有没有），获取推送链接（类似这个 https://api.day.app/xxxxxxxxxxxxx）；
+1. 下载 Bark APP（我用的 ios，Android 不知道有没有），获取推送链接（类似这个 https://api.day.app/xxxxxxxxxxxxx）；
 2. 在本页面上方 Settings → Secrets 中点击 New repository secret ，Name 填写 “**BARK_URL**”（不带引号），Value 中填写上一步获取的链接。
 
 # 每 60 天需要重新激活一下
